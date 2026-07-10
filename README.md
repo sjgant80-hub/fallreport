@@ -134,7 +134,7 @@ FallReport is one of seven sovereign wedges:
 - FallOffice (spreadsheets / docs)
 - FallBrief (legal)
 
-Each replaces a $40k-$400k/year enterprise platform. Each is a single HTML file. Each persists locally. Together they cover the back office.
+Each replaces a TBAk-TBAk/year enterprise platform. Each is a single HTML file. Each persists locally. Together they cover the back office.
 
 ### Estate seal
 
